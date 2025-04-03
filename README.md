@@ -15,7 +15,9 @@ I'm Carlos, a curious and motivated learner currently studying **Applied Machine
 
 | 📈 Stats | 📘 Most used languages |
 |---------|------------------------|
-| ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosTorresML&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosTorresML&layout=compact&theme=default) |
+| ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosTorresML&show_icons=true&theme=tokyonight)
+|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosTorresML&layout=compact&theme=tokyonight)
+
 
 > ✨ Tip: You can change the chart theme by adding `&theme=dark`, `&theme=tokyonight`, etc.
 
