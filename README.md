@@ -2,7 +2,7 @@
 
 _Machine Learning Student_
 
-## 👋 Hello_world!
+## 👋 print('Hello_world!')
 
 I'm Carlos, a curious and motivated learner currently studying **Applied Machine Learning** at Noroff.
 
