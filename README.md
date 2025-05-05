@@ -2,8 +2,6 @@
 
 _Machine Learning Student_
 
-## 👋 print('Hello_world!')
-
 I'm Carlos, a curious and motivated learner currently studying **Applied Machine Learning** at Noroff.
 
 - 🚀 I'm developing data analysis and machine learning skills through structured projects using Python, NumPy, Pandas, scikit-learn, and OpenCV.
