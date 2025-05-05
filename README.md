@@ -1,4 +1,4 @@
-# Carlos Torres
+# Carlos
 
 _Machine Learning Student_
 
