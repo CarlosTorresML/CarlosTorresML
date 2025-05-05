@@ -6,7 +6,7 @@ I'm Carlos, a curious and motivated learner currently studying **Applied Machine
 
 - 🚀 I'm developing data analysis and machine learning skills through structured projects using Python, NumPy, Pandas, scikit-learn, and OpenCV.
 - 🧠 I'm passionate about learning by doing and building projects with real impact.
-- 📚 I'm currently learning how to manipulate data, filter values, and apply ML-friendly formats.
+- 📚 I'm focused on developing skills in data analysis and machine learning, from data preprocessing to building and evaluating predictive models.
 - 🎯 My goal is to grow into a role where I can use AI to help people and improve the world.
 
 ## 📊 GitHub Stats
